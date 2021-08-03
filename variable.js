@@ -1,0 +1,9 @@
+var price = 21;
+var age = 23;
+var temperature = 37;
+var name = "Fazlul karim";
+var address = 'vooter goli kocu khet';
+var gf = 'alia bhatt';
+var school = 'Ideal school and college';
+var pass = true;
+var subscribe = false;
